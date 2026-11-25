@@ -1,0 +1,4 @@
+faster-whisper
+google-genai
+streamlit
+av<17
