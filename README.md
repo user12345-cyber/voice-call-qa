@@ -2,7 +2,7 @@
 
 A small tool that listens to a customer service call recording, transcribes it, and scores it for politeness and whether the issue was resolved.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/user12345-cyber/voice-call-qa/blob/main/voice-qa-launcher.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/user12345-cyber/voice-call-qa/blob/main/voice_qa_launcher.ipynb)
 
 ## How it works
 
