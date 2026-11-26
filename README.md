@@ -4,6 +4,8 @@ A small tool that listens to a customer service call recording, transcribes it, 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/user12345-cyber/voice-call-qa/blob/main/voice_qa_launcher.ipynb)
 
+
+**Try it:** download one of the sample call recordings in this repository (the mp3 files), then upload it on the app page and click Analyze call. To run the app you need your own free Gemini API key, saved in Colab Secrets as GEMINI_API_KEY.
 ## How it works
 
 1. **Transcribe**: faster-whisper turns the audio into text.
